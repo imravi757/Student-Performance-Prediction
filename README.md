@@ -10,7 +10,7 @@ This project aims to predict student academic performance (final grade - G3) bas
   - Absences, failures, study time, and free time.
   - Family support (`famsup`).
 - **Model Training**: Uses `LinearRegression` with a **90-10 train-test split**.
-- **Evaluation**: Achieves high accuracy (~0.896) and provides coefficient insights.
+- **Evaluation**: Achieves high accuracy (~0.943) and provides coefficient insights.
 
 ## 📊 Results
 - **Accuracy**: **89.6%** (R² score).
