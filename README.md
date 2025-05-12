@@ -1,7 +1,7 @@
 # Student Performance Prediction
 
 ## 📌 Overview
-This project aims to predict student academic performance (final grade - G3) based on various factors such as previous grades (G1, G2), study habits, family support, and other behavioral attributes. Using a **Linear Regression** model from scikit-learn, the project analyzes key features to forecast student outcomes with high accuracy (~89.6%).
+This project aims to predict student academic performance (final grade - G3) based on various factors such as previous grades (G1, G2), study habits, family support, and other behavioral attributes. Using a **Linear Regression** model from scikit-learn, the project analyzes key features to forecast student outcomes with high accuracy (~94.3%).
 
 ## 🔍 Key Features
 - **Data Preprocessing**: Handles categorical data (e.g., `famsup`) using `LabelEncoder`.
